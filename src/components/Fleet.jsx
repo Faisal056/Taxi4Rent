@@ -1,7 +1,7 @@
 import { Box, Container, Grid, Typography, Card, CardContent, Chip, Stack, Button } from '@mui/material';
 import PhotoSlot from './PhotoSlot.jsx';
 import ToyotaPrius2018 from '../assets/Toyota-Prius-2018-4.webp';
-import HyundaiIoniq2019 from '../assets/ioniq2.png';
+import HyundaiIoniq2019 from '../assets/Ioniq2.png';
 
 const SPEC = ({ children }) => (
   <Stack direction="row" spacing={1} alignItems="center">
